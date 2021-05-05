@@ -15,7 +15,7 @@ const opts = {
     username: 'teamjokerz' ,
     password: 'oauth:stixhpnimzh8brfu8jitish4xcrm6j'
   },
-  channels: [ 'liminhag0d', 'brnwowzk1', 'gaules', 'saullo', 'murilo_rt', 'cachorro1337c', 'bt0tv', 'tiburciand0', 'sksfps1', 'mch_agg', 'deercheerup', 'jument1nho', 'danoc0', 'loud_coringa', 'CSRfps'
+  channels: [ 'liminhag0d', 'brnwowzk1', 'gaules', 'saullo', 'murilo_rt', 'cachorro1337c', 'bt0tv', 'tiburciand0', 'sksfps1', 'mch_agg', 'deercheerup', 'danoc0', 'loud_coringa', 'CSRfps'
   ]
 };
 
